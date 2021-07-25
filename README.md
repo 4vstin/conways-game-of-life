@@ -13,3 +13,4 @@ This is a recreation of John Conway's Game of Life. More information can be foun
 3. Use the arrow keys to move the grey square around the board of cells.
 4. Press "z" to toggle the starting conditions for each cell. (White is alive and black is dead.)
 5. Press "Space" to run the simulation -it will go on forever- to restart it close and reopen the program.
+6. Press "d" to increase the delay between generations by 0.1 seconds.
